@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 ipywidgets = "*"
+Pillow = "*"
 
 [dev-packages]
 notebook = "*"
